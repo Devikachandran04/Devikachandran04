@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Devikachandran04
+- 👋 Hi, I’m @Devika chandran D
 - 🌱 I’m currently learning Information Technology Engineering
 - 📫 How to reach me devika6124dka@gmail.com
 - 😄 Pronouns: She/her
