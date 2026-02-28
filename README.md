@@ -27,7 +27,7 @@
 
 ## 📊 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Devikachandran04
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Devikachandran04&theme=tokyonight" />
