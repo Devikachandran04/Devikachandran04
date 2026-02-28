@@ -12,7 +12,7 @@
 - 🎓 B.Tech Information Technology (KTU) 
 - 🤖 Building **AI-based Foundational Learning System**
 - 💡 Interested in Backend Development & Intelligent Systems
-- 📚 Preparing for placements (DSA + Core Subjects)
+- 📚 Preparing for placements 
 
 
 ---
@@ -20,16 +20,14 @@
 ## 🚀 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,mongodb,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,mongodb" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devikachandran04&show_icons=true&theme=tokyonight" />
-</p>
+https://github-readme-stats.vercel.app/api?username=Devikachandran04
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Devikachandran04&theme=tokyonight" />
