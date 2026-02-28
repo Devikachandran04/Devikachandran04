@@ -1,28 +1,42 @@
-<h1 align="center">Hi 👋, I'm Devika</h1>
-<h3 align="center">B.Tech IT Student | Backend Learner | AI Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Devika Chandran D</h1>
+<h3 align="center">B.Tech IT Student | Backend Developer | AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Project+Builder;Learning+Everyday&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Project+Builder;Placement+Focused;Learning+Everyday&center=true&width=500&height=50">
 </p>
+
+---
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Information Technology (KTU) 
+- 🤖 Building **AI-based Foundational Learning System**
+- 💡 Interested in Backend Development & Intelligent Systems
+- 📚 Preparing for placements (DSA + Core Subjects)
+
+
+---
+
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,c,git,github,mongodb,react,nodejs" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devikachandran04&show_icons=true&theme=tokyonight" />
 </p>
-## 🚀 Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,git" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Devikachandran04&theme=tokyonight" />
 </p>
 
-## 👩‍💻 About Me
-
-- 🎓 B.Tech Information Technology (KTU)
-- 🤖 Working on AI-based Foundational Learning System
-- 📚 Preparing for placements
-- 💡 Interested in Backend & Intelligent Systems
-- 🌱 Currently learning advanced Python & DSA
+---
 
 
-<!---
-Devikachandran04/Devikachandran04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+⭐ *"Consistency builds mastery."*
