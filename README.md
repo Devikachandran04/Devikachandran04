@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Devika Chandran D</h1>
-<h3 align="center">B.Tech IT Student | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">B.Tech IT Student | Backend Learner | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;AI+Project+Builder;Placement+Focused;Learning+Everyday&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Learner;AI+Project+Builder;Learning+Everyday&center=true&width=500&height=50">
 </p>
 
 ---
