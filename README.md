@@ -7,6 +7,19 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devikachandran04&show_icons=true&theme=tokyonight" />
 </p>
+## 🚀 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,git" />
+</p>
+
+## 👩‍💻 About Me
+
+- 🎓 B.Tech Information Technology (KTU)
+- 🤖 Working on AI-based Foundational Learning System
+- 📚 Preparing for placements
+- 💡 Interested in Backend & Intelligent Systems
+- 🌱 Currently learning advanced Python & DSA
 
 
 <!---
